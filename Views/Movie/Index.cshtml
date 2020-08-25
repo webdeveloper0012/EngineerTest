@@ -1,0 +1,77 @@
+﻿@using EngineerTest.Models
+@model List<Movie>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    IEnumerable<Movie> TopRated = Model.Where(m => m.IsTopRated == true);
+    IEnumerable<Movie> UpComming = Model.Where(m => m.IsTopRated == false);
+}
+
+<style>
+    img { width: 100px }
+    .apiButton { display: none; }
+</style>
+
+
+<div class="row">
+    <div class="col-md-6">
+
+        <h2>Top Rated</h2>        
+        <hr />
+        <table class="table table-bordered table-hover">
+            <tr>
+                <th>
+                    #
+                </th>
+                <th>Poster</th>
+                <th>Title</th>
+                <th>Relase Date</th>
+            </tr>
+            @{int i = 0; }
+            @foreach (var m in TopRated)
+            {
+                i++;
+
+                <tr title="@m.Overview">
+                    <td>
+                        @i
+                    </td>
+                    <td> <img src='@("https://image.tmdb.org/t/p/w600_and_h900_bestv2/"+m.PosterPath)' /> </td>
+                    <td>@m.Title</td>
+                    <td> @(Convert.ToDateTime(m.ReleaseDate).ToString("dd/MM/yyyy"))</td>
+                </tr>
+
+            }
+        </table>
+    </div>
+    <div class="col-md-6">
+        <h2>Up Coming</h2>        
+        <hr />
+        <table class="table table-bordered table-hover">
+            <tr>
+                <th>
+                    #
+                </th>
+                <th>Poster</th>
+                <th>Title</th>
+                <th>Relase Date</th>
+            </tr>
+            @{int j = 0; }
+            @foreach (var m in UpComming)
+            {
+                j++;
+
+                <tr title="@m.Overview">
+                    <td>
+                        @j
+                    </td>
+                    <td> <img src='@("https://image.tmdb.org/t/p/w600_and_h900_bestv2/"+m.PosterPath)' /> </td>
+                    <td>@m.Title</td>
+                    <td> @(Convert.ToDateTime(m.ReleaseDate).ToString("dd/MM/yyyy"))</td>
+
+                </tr>
+
+            }
+        </table>
+    </div>
+</div>

@@ -1,0 +1,16 @@
+E:\Projects\EngineerTest-master\EngineerTest-master\EngineerTest
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=EngineerTest
+--content-root=E:\Projects\EngineerTest-master\EngineerTest-master\EngineerTest
+--file=E:\Projects\EngineerTest-master\EngineerTest-master\EngineerTest\Views\Home\About.cshtml
+--file=E:\Projects\EngineerTest-master\EngineerTest-master\EngineerTest\Views\Home\Contact.cshtml
+--file=E:\Projects\EngineerTest-master\EngineerTest-master\EngineerTest\Views\Home\Index.cshtml
+--file=E:\Projects\EngineerTest-master\EngineerTest-master\EngineerTest\Views\Home\Login.cshtml
+--file=E:\Projects\EngineerTest-master\EngineerTest-master\EngineerTest\Views\Home\Register.cshtml
+--file=E:\Projects\EngineerTest-master\EngineerTest-master\EngineerTest\Views\Movie\Index.cshtml
+--file=E:\Projects\EngineerTest-master\EngineerTest-master\EngineerTest\Views\Shared\Error.cshtml
+--file=E:\Projects\EngineerTest-master\EngineerTest-master\EngineerTest\Views\Shared\_Layout.cshtml
+--file=E:\Projects\EngineerTest-master\EngineerTest-master\EngineerTest\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=E:\Projects\EngineerTest-master\EngineerTest-master\EngineerTest\Views\signingoogle\index.cshtml
+--file=E:\Projects\EngineerTest-master\EngineerTest-master\EngineerTest\Views\_ViewImports.cshtml
+--file=E:\Projects\EngineerTest-master\EngineerTest-master\EngineerTest\Views\_ViewStart.cshtml

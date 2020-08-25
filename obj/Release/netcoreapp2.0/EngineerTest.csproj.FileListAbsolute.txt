@@ -1,0 +1,13 @@
+E:\Projects\EngineerTest-master\EngineerTest-master\EngineerTest\obj\Release\netcoreapp2.0\EngineerTest.csproj.CoreCompileInputs.cache
+E:\Projects\EngineerTest-master\EngineerTest-master\EngineerTest\obj\Release\netcoreapp2.0\EngineerTest.AssemblyInfoInputs.cache
+E:\Projects\EngineerTest-master\EngineerTest-master\EngineerTest\obj\Release\netcoreapp2.0\EngineerTest.AssemblyInfo.cs
+F:\Kishan Parmar\Core Project\By Kiran Sir\EngineerTest-master\EngineerTest\bin\Release\netcoreapp2.0\EngineerTest.deps.json
+F:\Kishan Parmar\Core Project\By Kiran Sir\EngineerTest-master\EngineerTest\bin\Release\netcoreapp2.0\EngineerTest.runtimeconfig.json
+F:\Kishan Parmar\Core Project\By Kiran Sir\EngineerTest-master\EngineerTest\bin\Release\netcoreapp2.0\EngineerTest.runtimeconfig.dev.json
+F:\Kishan Parmar\Core Project\By Kiran Sir\EngineerTest-master\EngineerTest\bin\Release\netcoreapp2.0\EngineerTest.dll
+F:\Kishan Parmar\Core Project\By Kiran Sir\EngineerTest-master\EngineerTest\bin\Release\netcoreapp2.0\EngineerTest.pdb
+F:\Kishan Parmar\Core Project\By Kiran Sir\EngineerTest-master\EngineerTest\obj\Release\netcoreapp2.0\EngineerTest.csproj.CoreCompileInputs.cache
+F:\Kishan Parmar\Core Project\By Kiran Sir\EngineerTest-master\EngineerTest\obj\Release\netcoreapp2.0\EngineerTest.AssemblyInfoInputs.cache
+F:\Kishan Parmar\Core Project\By Kiran Sir\EngineerTest-master\EngineerTest\obj\Release\netcoreapp2.0\EngineerTest.AssemblyInfo.cs
+F:\Kishan Parmar\Core Project\By Kiran Sir\EngineerTest-master\EngineerTest\obj\Release\netcoreapp2.0\EngineerTest.dll
+F:\Kishan Parmar\Core Project\By Kiran Sir\EngineerTest-master\EngineerTest\obj\Release\netcoreapp2.0\EngineerTest.pdb
